@@ -18,6 +18,6 @@ In this app suppose a person wants to track his/her money first he/she select th
 All these information about money will stored then second time when the person gives the information about the money this app will calculate the total money according to user information income/expenses . In this way a person can track his/her money.
 
 ### Technologies Used
-HTML,CSS,Node js
-Tools: Git
-Database: MongoDb
+HTML,CSS,Node js;
+Tools: Git;
+Database: MongoDb;
